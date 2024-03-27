@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rander2D", "Rander2D.vcproj", "{00A450D6-7E49-4189-AB37-DF04FB74B511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A450D6-7E49-4189-AB37-DF04FB74B511}.Debug|Win32.ActiveCfg = Debug|Win32
+		{00A450D6-7E49-4189-AB37-DF04FB74B511}.Debug|Win32.Build.0 = Debug|Win32
+		{00A450D6-7E49-4189-AB37-DF04FB74B511}.Release|Win32.ActiveCfg = Release|Win32
+		{00A450D6-7E49-4189-AB37-DF04FB74B511}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
